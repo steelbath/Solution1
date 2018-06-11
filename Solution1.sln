@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Noose", "Noose", "{8E7F45DD-0055-40A5-A1D4-A8A0A3C9A8C0}"
+	ProjectSection(SolutionItems) = preProject
+		C:\Users\Dhani\AppData\Local\Screeps\scripts\127_0_0_1___21025\default\main.js = C:\Users\Dhani\AppData\Local\Screeps\scripts\127_0_0_1___21025\default\main.js
+		C:\Users\Dhani\AppData\Local\Screeps\scripts\127_0_0_1___21025\default\role.builder.js = C:\Users\Dhani\AppData\Local\Screeps\scripts\127_0_0_1___21025\default\role.builder.js
+		C:\Users\Dhani\AppData\Local\Screeps\scripts\127_0_0_1___21025\default\role.harvester.js = C:\Users\Dhani\AppData\Local\Screeps\scripts\127_0_0_1___21025\default\role.harvester.js
+		C:\Users\Dhani\AppData\Local\Screeps\scripts\127_0_0_1___21025\default\role.upgrader.js = C:\Users\Dhani\AppData\Local\Screeps\scripts\127_0_0_1___21025\default\role.upgrader.js
+		C:\Users\Dhani\AppData\Local\Screeps\scripts\127_0_0_1___21025\default\spwnmgr.js = C:\Users\Dhani\AppData\Local\Screeps\scripts\127_0_0_1___21025\default\spwnmgr.js
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC8BBE79-640E-4CC3-B862-7EEED99BC388}
+	EndGlobalSection
+EndGlobal
